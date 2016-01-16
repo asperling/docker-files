@@ -1,0 +1,13 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "tobiju/bookdown-bootswatch-templates": "dev-master",
+        "bookdown/bookdown": "^0.5.0"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:asperling/bookdown-bootswatch-templates.git"
+        }
+    ]
+}
